@@ -1,0 +1,6 @@
+{
+  "name": "스텔라 서바이버 (Stellar Survivor)",
+  "description": "끝없이 몰려오는 외계 함대와 크리처를 격멸하고 함선을 업그레이드하는 SF 로그라이크 탄막 생존 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
